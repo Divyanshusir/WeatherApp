@@ -1,0 +1,1 @@
+this is a simple weather app create using react app to get weather of any city..
